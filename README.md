@@ -1,7 +1,7 @@
 # Simulación el edificio CC03 #
 
 ## Descripción ##
-El proyecto crea una animación en la que se simula a los alumnos de la Facultad de ciencias de la computación esperando su clase en el edificio CC03 manejando hilos 
+El proyecto crea una animación en la que se simula a los alumnos de la facultad de ciencias de la computación esperando su clase en el edificio CC03 manejando hilos 
 
 ## Notas: ##
 
